@@ -20,6 +20,7 @@ When combined with Ark's MGN12 mod and homing switch relocation, it allows compl
 I am personally using the below cable on my V2.4:
 https://www.automationdirect.com/adc/shopping/catalog/cables/bulk_multi-conductor_cable/continuous_flexing_control_cable/20_awg_unshielded/cf5-05-18-1
 
+# Photos of the system:
 ![image](https://user-images.githubusercontent.com/65414930/123795394-98d37680-d8a9-11eb-992d-2ec071ea1252.png)
 The mount has a dual clamp design with a zip-tie guide at the exit for a secure grip on the cable. 
 
