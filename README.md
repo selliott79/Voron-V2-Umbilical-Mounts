@@ -1,9 +1,20 @@
 # Voron-V2-Umbilical-Mounts - BETA testing phase
-Umbilical mounting system for the V2 that doesn't require de-term/ re-term to install.
 
-These mounts will allow the usage of a variety of multi conductor cables in an umbilical arrangement on the Voron V2.4. They mount to existing holes on parts so that changes
-to parts on the base machine that are difficult to swap are eliminated.
+What is umbilical? - Umbilical is the use of a direct connection from the printer to your toolhead, bypassing the normal convention of running control wiring through the cable tracks that are standard on a Voron V2.4. 
 
+# Pros:
+Umbilical can reduce or even eliminate broken wires due to the much larger bend radius.
+Silicone wire can freely be used as a budget option fir wiring if you decide to not invest in flex cable. 
+Easier troubleshooting of control wiring/ and MUCH easier replacement of defective wiring. 
+
+# Cons:
+You may lose some Z travel depending on how your setup is arranged. In the end though, personally I, like 90% of others print 200mm and lower for most of my projects. 
+
+
+# Design Considerations:
+Umbilical mounting system for the V2 that doesn't require de-term/ re-term of an existing umbilical system to install.
+These mounts will allow the usage of a variety of multi conductor cables in an umbilical arrangement on the Voron V2.4. 
+They mount to existing holes on parts so that changes to parts on the base machine that are difficult to swap are eliminated.
 When combined with Ark's MGN12 mod and homing switch relocation, it allows complete removal of the X and Y wire tracks. This greatly simplifies gantry maintenance. 
 
 I am personally using the below cable on my V2.4:
